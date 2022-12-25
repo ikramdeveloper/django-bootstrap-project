@@ -2,6 +2,8 @@
 
 One page bootstrap template with django user authentication
 
+Configured for both sqlite3 & postgresql
+
 #### Create virtual environment (On windows):
 
 ```
@@ -85,6 +87,14 @@ python manage.py makemigrations
 ```
 python manage.py migrate
 ```
+
+#### Seed dummy data into database
+
+```
+python manage.py loaddata feature.json
+```
+
+feature.json is a file inside fixtures directory in app
 
 ---
 

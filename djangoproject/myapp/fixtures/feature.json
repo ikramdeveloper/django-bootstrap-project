@@ -1,0 +1,38 @@
+[
+  {
+    "model": "myapp.feature",
+    "pk": 1,
+    "fields": {
+      "name": "Nemo Enim",
+      "detail": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis",
+      "icon": "ri-fingerprint-line"
+    }
+  },
+  {
+    "model": "myapp.feature",
+    "pk": 2,
+    "fields": {
+      "name": "Magni Dolores",
+      "detail": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia",
+      "icon": "ri-command-line"
+    }
+  },
+  {
+    "model": "myapp.feature",
+    "pk": 3,
+    "fields": {
+      "name": "Sed ut perspiciatis",
+      "detail": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore",
+      "icon": "ri-palette-line"
+    }
+  },
+  {
+    "model": "myapp.feature",
+    "pk": 4,
+    "fields": {
+      "name": "Lorem Ipsum",
+      "detail": "Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi",
+      "icon": "ri-stack-line"
+    }
+  }
+]
