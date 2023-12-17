@@ -99,3 +99,17 @@ feature.json is a file inside fixtures directory in app
 ---
 
 Bootstrap template used in this project: [View on bootstrapmade.com](https://bootstrapmade.com/demo/OnePage/)
+
+---
+
+### Author Links
+
+👋 Hello, I'm Ikram Ul Haq - Web Developer & Programmer
+
+☕ [Buy Me A Coffee](https://www.buymeacoffee.com/ikramdeveloper)
+
+🚀 Follow Me:
+
+- [Twitter](https://twitter.com/ikramdeveloper)
+- [LinkedIn](https://www.linkedin.com/in/ikramdeveloper/)
+- [StackOverflow](https://stackoverflow.com/users/13859212/ikram-ul-haq)
